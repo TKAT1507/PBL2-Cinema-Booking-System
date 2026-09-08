@@ -370,7 +370,8 @@ Các chức năng và thiết kế hiện tại chỉ là định hướng ban �
 
 Đồ án được thực hiện bởi nhóm sinh viên trong khuôn khổ học phần **PBL2 – Đồ án cơ sở lập trình**.
 
-Danh sách thành viên sẽ được cập nhật trong quá trình thực hiện dự án.
+Trần Kiêm Anh Tài - 25T_KHDL
+Nguyễn Thị Tuyết Nhi - 25T_DT3
 
 ---
 
