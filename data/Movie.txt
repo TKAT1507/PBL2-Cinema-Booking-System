@@ -1,0 +1,5 @@
+*MaPhim|TenPhim|TheLoai|ThoiLuong|DoTuoi|MoTa|NoiDung|Poster|TrangThai
+P001|Tham Tu Kien|Hoat hinh, Phieu luu|110|P|Hanh trinh pha an tai thanh pho dong vat|Mot tham tu tre tham gia dieu tra vu mat tich bi an tai thanh pho|tham_tu_kien.jpg|DANG_CHIEU
+P002|Vu Tru Bi An|Khoa hoc vien tuong|135|T13|Chuyen tham hiem den hanh tinh xa la|Mot nhom phi hanh gia phat hien tin hieu la trong chuyen tham hiem vu tru|vu_tru_bi_an.jpg|DANG_CHIEU
+P003|Nha Co Anh Sang|Tam ly, Gia dinh|105|T16|Cau chuyen ve mot gia dinh nhieu bi mat|Sau khi tro ve ngoi nha cu, cac thanh vien phat hien nhung su that bi che giau|nha_co_anh_sang.jpg|SAP_CHIEU
+P004|Cuoc Dua Cuoi Cung|Hanh dong|125|T18|Cuoc dua quyet dinh cua nhung tay dua|Nhung tay dua doi mat voi thu thach nguy hiem trong chang dua cuoi cung|cuoc_dua_cuoi_cung.jpg|HET_CHIEU

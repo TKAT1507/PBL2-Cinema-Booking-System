@@ -1,0 +1,4 @@
+*MaPhong|TenPhong|SoHang|SoCot
+PC001|Phong 1|5|8
+PC002|Phong 2|6|10
+PC003|Phong VIP|4|6

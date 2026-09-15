@@ -1,0 +1,4 @@
+*MaKhachHang|TaiKhoan
+KH001|kh001
+KH002|kh002
+KH003|kh003

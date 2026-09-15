@@ -1,0 +1,3 @@
+*MaNhanVien|TaiKhoan|TenNhanVien
+NV001|nv001|Tran Minh Khoa
+NV002|nv002|Le Thu Trang
