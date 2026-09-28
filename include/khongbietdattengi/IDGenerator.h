@@ -1,10 +1,14 @@
-#include <string>
 
+#include <DynamicArray.h>
 class IDGenerator
 {
+    private:
+    static int extractNum(const string & id, const string & prefix );
     public:
-    static std::string extraNumber (const int &);
-    static std::string IDGen( const std::string & );
+    static std::string generateID(
+        const string & prefix,
+         const DynamicArray<string> & exitIDs);
+
 
 
 };
