@@ -14,7 +14,7 @@ private:
     string vaiTro;
 public:
     User();
-    User(string tk,string mk,string sdt,int tuoi,string ten);
+    User(string tk,string mk,string sdt,int tuoi,string ten,string vaiTro);
     User(const User& other);
     ~User();
     string getTaiKhoan();
@@ -22,13 +22,13 @@ public:
     string getSDT();
     int getTuoi();
     string getTen();
-    string setRole();
+    string getRole();
     void setTaiKhoan(const string&tk);
     void setMatKhau(const string&mk);
     void setSDT(const string&SDT);
-    void setTuoi(const string&Tuoi);
-    void setTen(const string&Ten);
-    void setRole(const string&Role);
+    void setTuoi(const int&tuoi);
+    void setTen(const string&ten);
+    void setRole(const string&role);
 };
 
 
