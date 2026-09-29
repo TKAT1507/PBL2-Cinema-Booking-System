@@ -9,7 +9,12 @@ class Admin : public User{
 private:
     string maQuanLy;
 public:
-    void getMa();
+    Admin();
+    Admin(string tk,string mk,string sdt,int tuoi,string ten,string maQL);
+    Admin(const Admin&AD);
+    string getMa();
+    void setMa(const string&maQL);
+
 
 };
 
