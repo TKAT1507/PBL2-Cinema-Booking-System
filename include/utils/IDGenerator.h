@@ -7,7 +7,7 @@ class IDGenerator
     public:
     static std::string generateID(
         const string & prefix,
-         const DynamicArray<string> & exitIDs);
+        const DynamicArray <string> & exitIDs);
 
 
 

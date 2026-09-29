@@ -33,11 +33,6 @@ string User::getTen(){
 string User::getRole(){
     return vaiTro;
 }
-string User::getTaiKhoan(){
-    return taiKhoan;
-}string User::getTaiKhoan(){
-    return taiKhoan;
-}
 void User::setTaiKhoan(const string&tk){
     taiKhoan = tk;
 }

@@ -7,7 +7,7 @@
 using namespace std;
 class Cashier : public User{
 private:
-    string maKhachHang;
+    string maNhanVien;
 public:
     Cashier();
     Cashier(string tk,string mk,string sdt,int tuoi,string ten,string maNV);
